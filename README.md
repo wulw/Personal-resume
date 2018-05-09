@@ -36,7 +36,7 @@
 
 - **技术点：** html、javascript、css3
 
-- **工作内容：** 使用 Bootstrap 框架实现运管产品登陆页面布局和首页内容页面的布局，用到html、javascript、css3等实现前端交互效果
+- **工作内容：** 使用Bootstrap框架实现运管产品登陆页面布局和首页内容页面的布局，用到html、javascript、css3等实现前端交互效果
 
 - **项目职责：**
 
@@ -44,13 +44,13 @@
     
     - 实现页面的交互效果和优化
     
-> 个人能力提升
+> 熟练使用原生javascript操作DOM树、掌握新的css3属性对页面样式的布局等。
 
 - **项目：池州海绵城市**
 
 - **技术点：** html、javascript、css3、jsp
 
-- **工作内容：** ：使用html、javascript、css3等实现前端网页页面布局的优化，并按照设计原型，实现新的布局样式和前端交互效果 
+- **工作内容：** 使用html、javascript、css3等实现前端网页页面布局的优化，并按照设计原型，实现新的布局样式和前端交互效果 
 
 - **项目职责：**
 
@@ -58,7 +58,7 @@
     
     - 实现页面的交互效果和优化
     
-> 项目总结经验
+> 熟练使用原生javascript操作DOM树、掌握新的css3属性对页面样式的布局等
 
 - **项目：广州河长信息管理系统**
 
@@ -66,7 +66,7 @@
 
 - **工作内容：** 使用html、javascript、css3、jsp开发广州河长信息管理系统PC端前端页面布局和 手机端APP网页页面的开发，运用到 Bootstrap 前端框架、ECharts 绘制数据表格、jQuery 提示通知插件 jBox、jQuery easyUI 用户界面插件集合和 zTree 树插件的使用，运用原生的javascript对DOM树的操作，实现前端页面的交互效果以及css3控制前端页面的样式
 
-> 项目总结，经验
+> 熟练掌握了大量的前端UI开发框架，尤其是Bootstrap的运用，便于快速开发页面。对position属性的值更加深入了解，对flex布局更加擅长。新的css3属性的值的灵活运用，包括旋转2d、旋转3d、过渡transition和动画animation等。
 
 ## 上海视九信息科技有限公司（2014年5月 ~ 2016年11月）
 
@@ -100,7 +100,7 @@
 
 - **工作内容：** ：使用html、javascript、css3开发主页，使其由竖版tab改为横版tab布局，javascript对电视遥控器按键处理的响应机制，以及使用javascript和java语言生成动态的下载二维码图片
 
-> 毕业后初识javascript
+> 毕业后初识javascript对DOM树的操作，初步认识css各属性的值对页面样式的控制及效果
 
 # 自我评价
 
