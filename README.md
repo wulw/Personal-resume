@@ -66,7 +66,7 @@
 
 - **工作内容：** 使用html、javascript、css3、jsp开发广州河长信息管理系统PC端前端页面布局和 手机端APP网页页面的开发，运用到 Bootstrap 前端框架、ECharts 绘制数据表格、jQuery 提示通知插件 jBox、jQuery easyUI 用户界面插件集合和 zTree 树插件的使用，运用原生的javascript对DOM树的操作，实现前端页面的交互效果以及css3控制前端页面的样式
 
-> 熟练掌握了大量的前端UI开发框架，尤其是Bootstrap的运用，便于快速开发页面。对position属性的值更加深入了解，对flex布局更加擅长。新的css3属性的值的灵活运用，包括旋转2d、旋转3d、过渡transition和动画animation等。
+> 熟练掌握了大量的前端UI开发框架，尤其是Bootstrap的运用，便于快速开发页面。对position属性的值更加深入了解，对flex布局更加擅长。新的css3属性的值的灵活运用，包括2d转换、3d转换、过渡transition和动画animation等。
 
 ## 上海视九信息科技有限公司（2014年5月 ~ 2016年11月）
 
