@@ -98,9 +98,9 @@
 
 - **技术点：** html、javascript、css3
 
-- **工作内容：** ：使用html、javascript、css3开发主页，使其由竖版tab改为横版tab布局，javascript对电视遥控器按键处理的响应机制，以及使用javascript和java语言生成动态的下载二维码图片
+- **工作内容：** 使用html、javascript、css3开发主页，使其由竖版tab改为横版tab布局，javascript对电视遥控器按键处理的响应机制，以及使用javascript和java语言生成动态的下载二维码图片
 
-> 毕业后初识javascript对DOM树的操作，初步认识css各属性的值对页面样式的控制及效果
+> 毕业后初识javascript对DOM树的操作，初步认识css各属性的值对页面样式的控制及效果。对jQuery有了初步的认识与运用，对页面的布局、结构有了正确的理解，熟悉了html/xhtml、css等网页制作技术，熟悉页面架构和布局
 
 # 自我评价
 
