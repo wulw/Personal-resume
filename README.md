@@ -1,4 +1,4 @@
-# <center>personal-resume</center>
+# personal-resume
 
 # 联系方式
 
